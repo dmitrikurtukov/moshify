@@ -449,6 +449,14 @@ a {
   margin: 0;
 }
 
+.quote--media {
+  margin-bottom: 0;
+}
+
+.quote__text {
+  margin: 3rem 0;
+}
+
 .quote__text::before {
   content: open-quote;
 }
